@@ -9,7 +9,7 @@ const Hero = () => {
             </h2> 
             <p className='mt-4 text-gray-900 animate-fadeIn delay-500 font-bold mb-3'>
                This is a simple website built using Next.js<br /> and Tailwind CSS.
-               <br />lt's a simple and modren website templete
+               <br />lt&apos;s a simple and modren website templete
                 feel free to explore the source code on <b>Github.</b><br />
                 This website serve as my personal <b>Portfolio </b> where I showcase  
                 <br />my web development project and <b>skills.</b><br />

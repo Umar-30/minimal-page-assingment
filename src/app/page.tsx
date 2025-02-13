@@ -1,4 +1,4 @@
-import Image from "next/image"
+
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Footer from "./components/Footer";
@@ -19,7 +19,7 @@ export default function Home() {
           About Me
         </h1>
         <p className="text-lg md:text-xl leading-relaxed">
-          Hello, I'm <b>Shagufta Zakir</b>, a passionate about coding<br />
+          Hello, I&apos;m <b>Shagufta Zakir</b>, a passionate about coding<br />
           and always eager to explore new web technologies.<br />
           I specialize in <b>front-end development</b> and <br />love building
           user-friendly expreriences.<br />I believe in the power of <b>technology </b> 
@@ -35,8 +35,8 @@ export default function Home() {
           Portfolio
          </h1>
         <p className="text-lg md:text-xl max-w-3xl mx-auto mb-8">
-          Here are few projects I've worked on, showcasing my journey
-          in development. These projects reflect the skills I've acquired and passion
+          Here are few projects I&apos;ve worked on, showcasing my journey
+          in development. These projects reflect the skills I&apos;ve acquired and passion
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 ">
             <div className="bg-white p-6 shadow-lg rounded-lg transition white">
